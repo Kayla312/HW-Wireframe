@@ -23,6 +23,8 @@ article {
 
     background-color: #777;
     width: 450px;
+    /* made the dark grey wrap around the elements in the article section */
+    height:160px;
     color: #ebebeb;
 
 } 
@@ -44,7 +46,7 @@ p {
     margin-left:20px;
     color: #777;
     line-height: 40px;
-
+    /* margin-bottom: 10px solid #777; */
 
 }
 header, nav, footer {
@@ -58,8 +60,8 @@ section, aside {
 /* made the boz fit around the h1 and p section, and adjusted the aside to match */
     width: 495px;
     display: block;
-    height: 200px;
-    border-bottom: 10px solid #777;
+    height: 220px;
+    
 }
 section {
     border: 1px solid blue;
