@@ -9,6 +9,7 @@ body {
     width: 960px;
     font-size: 18px;
     text-align: center;
+    margin-left: 100px;
     
 }
 header, nav, section, aside, footer, h1, p {
@@ -21,21 +22,28 @@ header, nav, section, aside, footer, h1, p {
 article {
 
     background-color: #777;
-
+    width: 450px;
     color: #ebebeb;
 
 } 
 h1 {
 
-    
+    float: none;
+    margin-right: 20px;
+    margin-left: 20px;
     color: #777;
-    
+    width: 410px;
+    line-height: 40px;
+   
     
 }
 p {
-
-
+    border: 1px solid purple;
+    float:none;
+    margin-right: 20px;
+    margin-left:20px;
     color: #777;
+    line-height: 40px;
 
 
 }
@@ -43,25 +51,35 @@ header, nav, footer {
 
     /* making the footer and header and nav line the fatness across the screen  */
     padding: 30px;
+    border: 1px solid yellow;
 
 }
 section, aside {
-
+/* made the boz fit around the h1 and p section, and adjusted the aside to match */
     width: 495px;
     display: block;
-    height: 300px;
+    height: 200px;
+    border-bottom: 10px solid #777;
 }
 section {
-    
+    border: 1px solid blue;
     float: left;
-    width: 50%;
+    width: 49%;
     padding: 10px;
+    margin-right: 20px #777;
 
 }
 aside {
     /* got the dang thing to float in the right spot, thank god */
     float: right;
-    width: 50%;
+    width: 49%;
+    border: 1px solid red;
 
+
+}
+
+footer {
+    padding: 30px;
+    clear: both;
 
 }
