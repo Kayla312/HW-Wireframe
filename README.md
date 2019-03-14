@@ -5,7 +5,7 @@
  ![example build](readMePhotos/download.png)
 
 This was a first experience with HTML and CSS. 
- - There were no libraries used, and really encourgaed thinking like a designer.
+ - There were no libraries used, and really encouraged thinking like a designer.
  - Which element would be contained inside each element and spacing
 
  ### Finished Build
@@ -14,7 +14,7 @@ This was a first experience with HTML and CSS.
 ## Personal Experience
 This was the first assignment I ever completed for the University of Washington Bootcamp. When I started out, I couldnt underdstand the file tree in VS Code, and  HTML/CSS seemed fairly straignforward, until they didnt. So  the borders on each element is so that I could separate each piece and see their placement, which I left so that if I had any questions later I could look back and follow my throughts. 
 
-I missed some of the elements ( such as stacking the headers and spacing of elements) but that was part of learning, so that is the way it will stay. Learning is Work.
+I missed some of the elements (such as stacking the headers and spacing of elements) but that was part of learning, so that is the way it will stay. Learning is Work.
 
 #### Instructions
 1. Your HTML should have each of the following sections:
