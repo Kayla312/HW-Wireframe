@@ -9,7 +9,7 @@ body {
     width: 960px;
     font-size: 18px;
     text-align: center;
-    margin-left: 100px;
+    margin-left: 300px;
     /* margin-bottom: 20px; */
 
     
@@ -28,7 +28,6 @@ article {
     /* made the dark grey wrap around the elements in the article section */
     height:160px;
     color: #ebebeb;
-
 } 
 h1 {
 
@@ -79,9 +78,7 @@ aside {
     width: 49%;
     border: 1px solid red;
     margin-bottom: 20px;
-
-
-
+    text-align: center;
 }
 
 footer {
