@@ -12,12 +12,12 @@ This was a first experience with HTML and CSS.
 ![finished build](readMePhotos/wireframeAssignment.png)
 
 ## Personal Experience
-This was the first assignment I ever completed for the University of Washington Bootcamp. When I started out, I couldnt underdstand the file tree in VS Code, and  HTML/CSS seemed fairly straignforward, until they didnt. So  the borders on each element is so that I could separate each piece and see their placement, which I left so that if I had any questions later I could look back and follow my throughts. 
+This was the first assignment I ever completed for the University of Washington Bootcamp. When I started out, I couldnt underdstand the file tree in VS Code, and HTML/CSS seemed fairly straignforward, until they didnt. The borders on each element are individually colored so that I could easily separate each piece and see their placement. I left the borders so that if I had any questions later I could look back and follow through my thoughts. 
 
 I missed some of the elements (such as stacking the headers and spacing of elements) but that was part of learning, so that is the way it will stay. Learning is Work.
 
 #### Instructions
-1. Your HTML should have each of the following sections:
+1. HTML should have each of the following sections:
    * Header
    * Nav
    * Aside (With a Heading)
@@ -25,7 +25,7 @@ I missed some of the elements (such as stacking the headers and spacing of eleme
    * Article (With a Heading) contained within the Section
    * Headers contained within the Article
    * Paragraph contained within the Article
-2. Your CSS should have styles for each of the following elements:
+2. CSS should have styles for each of the following elements:
    * Body
      * font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
      * color: '#777'
