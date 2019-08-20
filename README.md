@@ -12,7 +12,9 @@ This was a first experience with HTML and CSS.
 ![finished build](readMePhotos/wireframeAssignment.png)
 
 ## Personal Experience
-This was the first assignment I ever completed for the University of Washington Bootcamp. When I started out, I couldnt underdstand the file tree in VS Code, and HTML/CSS seemed fairly straignforward, until they didnt. The borders on each element are individually colored so that I could easily separate each piece and see their placement. I left the borders so that if I had any questions later I could look back and follow through my thoughts. 
+This was the first assignment I ever completed for the University of Washington Bootcamp. When I started out, I couldnt underdstand the file tree in VS Code, and while I thought HTML/CSS were fairly straightforward, turns out it was not as easy as it looked.
+
+ The borders on each element are individually colored so that I could easily separate each piece and see their placement. I left the borders so that if I had any questions later I could look back and follow through my thoughts. 
 
 I missed some of the elements (such as stacking the headers and spacing of elements) but that was part of learning, so that is the way it will stay. Learning is Work.
 
